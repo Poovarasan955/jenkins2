@@ -7,3 +7,4 @@ class sample{
      System.out.println("Deveops");
      System.out.println("class");
   }
+}
