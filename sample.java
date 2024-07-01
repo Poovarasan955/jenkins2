@@ -1,9 +1,9 @@
 class sample{
-  public static void main(string[]args)
+  public static void main(String[]args)
   {
-    system.out.println("Hello");
-    system.out.println("Welcome");
-     system.out.println("to");
-     system.out.println("Deveops");
-     system.out.println("class");
+    System.out.println("Hello");
+    System.out.println("Welcome");
+     System.out.println("to");
+     System.out.println("Deveops");
+     System.out.println("class");
   }
